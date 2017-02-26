@@ -1,7 +1,11 @@
 # Other
-.old
-.json
+*.old
+*.json
 test_*
+
+#AppleDirectory
+.AppleDouble/
+DS_Store/
 
 # Logs
 logs
