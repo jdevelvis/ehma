@@ -1,0 +1,23 @@
+{
+  "name": "ehma",
+  "version": "0.0.1",
+  "description": "AI app for Home Assistant",
+  "main": "index.js",
+  "dependencies": {
+    "brain": "^0.7.0",
+    "node-rest-client": "^2.5.0",
+    "underscore": "^1.8.3",
+    "ws": "^2.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdevelvis/ehma.git"
+  },
+  "author": "Jason DeVelvis",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jdevelvis/ehma/issues"
+  },
+  "homepage": "https://github.com/jdevelvis/ehma#readme"
+}
